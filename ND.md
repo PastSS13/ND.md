@@ -1,4 +1,8 @@
-﻿
+﻿<style>
+#основное {
+    background: url(https://cdn.discordapp.com/attachments/857322394368344134/967889551764889630/ND2.png);
+}
+</style>
 
 # NEXT DAY || NEXT DIE
 
