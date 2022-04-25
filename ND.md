@@ -29,11 +29,13 @@
 
 
 ## Скриншоты с сервера
-![enter image description here](https://cdn.discordapp.com/attachments/884828076222054440/960641311805952060/unknown.png)
-![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/958046556328718376/unknown.png)
-![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/957344878055030804/unknown.png)
-![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/918958128899436644/unknown.png)
-![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/949791136535441428/unknown.png)
-![enter image description here](https://cdn.discordapp.com/attachments/884828076222054440/948270993141538816/unknown.png)
-![enter image description here](https://cdn.discordapp.com/attachments/884828076222054440/934476546884907018/unknown.png)
+<div id=картинки>
+![](https://cdn.discordapp.com/attachments/884828076222054440/960641311805952060/unknown.png)
+![](https://cdn.discordapp.com/attachments/839880135250542622/958046556328718376/unknown.png)
+![](https://cdn.discordapp.com/attachments/839880135250542622/957344878055030804/unknown.png)
+![](https://cdn.discordapp.com/attachments/839880135250542622/918958128899436644/unknown.png)
+![](https://cdn.discordapp.com/attachments/839880135250542622/949791136535441428/unknown.png)
+![](https://cdn.discordapp.com/attachments/884828076222054440/948270993141538816/unknown.png)
+![](https://cdn.discordapp.com/attachments/884828076222054440/934476546884907018/unknown.png)
+</div>
 
