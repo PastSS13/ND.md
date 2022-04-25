@@ -27,9 +27,9 @@
  - Русификация игрового процесса
  
 
-
-## Скриншоты с сервера
 <div id=картинки>
+## Скриншоты с сервера
+
 ![](https://cdn.discordapp.com/attachments/884828076222054440/960641311805952060/unknown.png)
 ![](https://cdn.discordapp.com/attachments/839880135250542622/958046556328718376/unknown.png)
 ![](https://cdn.discordapp.com/attachments/839880135250542622/957344878055030804/unknown.png)
