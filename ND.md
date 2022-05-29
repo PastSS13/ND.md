@@ -1,9 +1,5 @@
 ﻿
-<style>
-#основное {
-    background: url(https://cdn.discordapp.com/attachments/857322394368344134/967889551764889630/ND2.png);
-}
-</style>
+<style> :root { --bg_h: #1d2021; --bg: #282828; --bg_s: #32302f; --bg1: #3c3836; --bg2: #504945; --bg3: #665c54; --bg4: #7c6f64; --fg: #fbf1c7; --fg1: #ebdbb2; --fg2: #d5c4a1; --fg3: #bdae93; --fg4: #a89984; --red: #fb4934; --green: #b8bb26; --yellow: #fabd2f; --blue: #83a598; --purple: #d3869b; --aqua: #8ec07c; --gray: #928374; --orange: #fe8019; --red-dim: #cc2412; --green-dim: #98971a; --yellow-dim: #d79921; --blue-dim: #458588; --purple-dim: #b16286; --aqua-dim: #689d6a; --gray-dim: #a89984; --orange-dim: #d65d0e; } </style>
 # NEXT DAY || NEXT DIE
 
 *Чудовищный экологический катаклизм уничтожил 90% процентов галактики. Оставшиеся в живых вынуждены обитать под землёй, в мегаполисах с неприступными стенами или на исполинских кораблях, собранных из былого величия.
@@ -26,15 +22,14 @@
  
  - Русификация игрового процесса
  
-<div id=картинки>
+
 
 ## Скриншоты с сервера
-![enter image description here](https://cdn.discordapp.com/attachments/884828076222054440/960641311805952060/unknown.png)
+![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/980502876226994186/unknown.png)
 ![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/958046556328718376/unknown.png)
 ![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/957344878055030804/unknown.png)
 ![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/918958128899436644/unknown.png)
 ![enter image description here](https://cdn.discordapp.com/attachments/839880135250542622/949791136535441428/unknown.png)
 ![enter image description here](https://cdn.discordapp.com/attachments/884828076222054440/948270993141538816/unknown.png)
 ![enter image description here](https://cdn.discordapp.com/attachments/884828076222054440/934476546884907018/unknown.png)
-</div>
 
